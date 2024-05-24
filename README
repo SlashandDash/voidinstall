@@ -1,0 +1,7 @@
+NOTE: this will only install on sda drive
+
+ONLY RUN void-installscript.sh with:
+
+./void-installscript.sh
+
+NOT THE chroot.sh
